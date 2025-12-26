@@ -93,6 +93,5 @@ Main responsibilities:
 
 ## 9. Author
 **Mai Phuong Thao**  
-QC / Manual Tester Intern  
 📧 Email: phgthao914@gmail.com  
 🔗 GitHub: https://github.com/phuongthao04
